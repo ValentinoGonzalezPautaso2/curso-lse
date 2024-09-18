@@ -4,7 +4,7 @@
 // Etiqueta para el pulsador USER
 #define USER_BTN	4
 // Etiqueta para el LED azul
-#define LED_BLUE	1
+#define LED_BLUE	2
 
 /*
  * @brief   Application entry point.
@@ -31,8 +31,10 @@ int main(void) {
 
     	// Verifico el estado del pulsador (tiene pull-up)
     	if(!GPIO_PinRead(GPIO, 0, USER_BTN)) {
+    		// Prendo el LED (anodo comun)
     		GPIO_PinWrite(GPIO, 1, LED_BLUE, 0);
     		for(uint32_t i = 0; i < 100; i++);
+
     	}
     	else {
     		// Apago el LED
