@@ -654,22 +654,7 @@
 		</cconfiguration>
 	</storageModule>
 	<storageModule moduleId="cdtBuildSystem" version="4.0.0">
-		<project id="01_blinky.null.1173242415" name="01_blinky" projectType="com.crt.advproject.projecttype.exe"/>
-	</storageModule>
-	<storageModule moduleId="scannerConfiguration">
-		<autodiscovery enabled="true" problemReportingEnabled="true" selectedProfileId=""/>
-		<scannerConfigBuildInfo instanceId="com.crt.advproject.config.exe.debug.1763512800;com.crt.advproject.config.exe.debug.1763512800.;com.crt.advproject.gas.exe.debug.1063122338;com.crt.advproject.assembler.input.867821775">
-			<autodiscovery enabled="true" problemReportingEnabled="true" selectedProfileId=""/>
-		</scannerConfigBuildInfo>
-		<scannerConfigBuildInfo instanceId="com.crt.advproject.config.exe.debug.1763512800;com.crt.advproject.config.exe.debug.1763512800.;com.crt.advproject.gcc.exe.debug.428176722;com.crt.advproject.compiler.input.1027364657">
-			<autodiscovery enabled="true" problemReportingEnabled="true" selectedProfileId=""/>
-		</scannerConfigBuildInfo>
-		<scannerConfigBuildInfo instanceId="com.crt.advproject.config.exe.release.672567872;com.crt.advproject.config.exe.release.672567872.;com.crt.advproject.gas.exe.release.320573419;com.crt.advproject.assembler.input.1204293891">
-			<autodiscovery enabled="true" problemReportingEnabled="true" selectedProfileId=""/>
-		</scannerConfigBuildInfo>
-		<scannerConfigBuildInfo instanceId="com.crt.advproject.config.exe.release.672567872;com.crt.advproject.config.exe.release.672567872.;com.crt.advproject.gcc.exe.release.982166384;com.crt.advproject.compiler.input.1061136519">
-			<autodiscovery enabled="true" problemReportingEnabled="true" selectedProfileId=""/>
-		</scannerConfigBuildInfo>
+		<project id="01_blinky.null.1077919774" name="01_blinky" projectType="com.crt.advproject.projecttype.exe"/>
 	</storageModule>
 	<storageModule moduleId="org.eclipse.cdt.core.LanguageSettingsProviders"/>
 	<storageModule moduleId="com.nxp.mcuxpresso.core.datamodels">
@@ -706,4 +691,19 @@
 &lt;/TargetConfig&gt;</projectStorage>
 	</storageModule>
 	<storageModule moduleId="org.eclipse.cdt.make.core.buildtargets"/>
+	<storageModule moduleId="scannerConfiguration">
+		<autodiscovery enabled="true" problemReportingEnabled="true" selectedProfileId=""/>
+		<scannerConfigBuildInfo instanceId="com.crt.advproject.config.exe.release.11161510;com.crt.advproject.config.exe.release.11161510.;com.crt.advproject.gas.exe.release.75682169;com.crt.advproject.assembler.input.971416491">
+			<autodiscovery enabled="true" problemReportingEnabled="true" selectedProfileId=""/>
+		</scannerConfigBuildInfo>
+		<scannerConfigBuildInfo instanceId="com.crt.advproject.config.exe.debug.1183431342;com.crt.advproject.config.exe.debug.1183431342.;com.crt.advproject.gas.exe.debug.1338329497;com.crt.advproject.assembler.input.539709873">
+			<autodiscovery enabled="true" problemReportingEnabled="true" selectedProfileId=""/>
+		</scannerConfigBuildInfo>
+		<scannerConfigBuildInfo instanceId="com.crt.advproject.config.exe.debug.1183431342;com.crt.advproject.config.exe.debug.1183431342.;com.crt.advproject.gcc.exe.debug.1065743677;com.crt.advproject.compiler.input.1080348874">
+			<autodiscovery enabled="true" problemReportingEnabled="true" selectedProfileId=""/>
+		</scannerConfigBuildInfo>
+		<scannerConfigBuildInfo instanceId="com.crt.advproject.config.exe.release.11161510;com.crt.advproject.config.exe.release.11161510.;com.crt.advproject.gcc.exe.release.1080118358;com.crt.advproject.compiler.input.2086322687">
+			<autodiscovery enabled="true" problemReportingEnabled="true" selectedProfileId=""/>
+		</scannerConfigBuildInfo>
+	</storageModule>
 </cproject>
