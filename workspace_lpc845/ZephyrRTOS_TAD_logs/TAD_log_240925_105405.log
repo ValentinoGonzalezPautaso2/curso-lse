@@ -1,0 +1,12 @@
+"Task Aware Debugger for GDB" version 11.10.0 (202404041456)
+Copyright 2016-2023 NXP
+==================================
+10:53:06.534 INFO: [ZephyrRTOS] .config file could not be read [C:\Users\estudiante\Documents\GitHub\curso-lse\workspace_lpc845\02_custom_blinky\Debug\.config (El sistema no puede encontrar el archivo especificado)]
+10:53:06.535 INFO: [TadModel] DSF session ID 4 has started.
+10:53:13.473 INFO: [TadState] TAD state changed: DEBUG_STARTED -> DEBUG_INIT_0 (RESUMED, USER_REQUEST)
+10:53:13.510 INFO: [TadState] TAD state changed: DEBUG_INIT_0 -> DEBUG_INIT_1 (SUSPENDED, SIGNAL)
+10:53:14.279 INFO: [TadState] TAD state changed: DEBUG_INIT_1 -> DEBUG_SUSPENDED (RESUMED, USER_REQUEST)
+10:53:14.394 INFO: [TadState] TAD state changed: DEBUG_SUSPENDED -> DEBUG_SUSPENDED (SUSPENDED, BREAKPOINT)
+10:53:22.984 INFO: [TadState] TAD state changed: DEBUG_SUSPENDED -> DEBUG_RESUMED (RESUMED, USER_REQUEST)
+10:54:03.204 INFO: [TadState] TAD state changed: DEBUG_RESUMED -> READY (SUSPENDED, SIGNAL)
+10:54:05.357 INFO: [TadModel] DSF session ID 4 has ended.
