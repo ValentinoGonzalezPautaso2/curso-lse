@@ -1,11 +1,11 @@
-#include "board.h"
+	#include "board.h"
 #include "fsl_debug_console.h"
 #include "fsl_swm.h"
 #include "fsl_power.h"
 #include "fsl_adc.h"
 
 // Canal de ADC para el potenciometro
-#define ADC_POT_CH		0
+#define ADC_POT_CH		18
 #define LED_ROJO 2
 /*
  * @brief   Application entry point.
